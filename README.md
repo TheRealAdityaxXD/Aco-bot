@@ -1,19 +1,21 @@
-# 🤖 AcoBot – AI Powered Discord Chatbot
+# 🤖 AcoBot – Verified AI Discord Chatbot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Verified_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Powered-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Servers-Multi_Server_Support-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About AcoBot
 
-**AcoBot** is an intelligent AI-powered Discord chatbot designed to bring smart conversations, automation, and productivity tools directly into your server.
+**AcoBot** is a powerful AI-powered Discord chatbot designed to deliver intelligent conversations, productivity assistance, and smart automation directly inside your Discord server.
 
-It understands natural language, responds intelligently, and enhances your community engagement with AI-driven interactions.
+🛡 **AcoBot is a Discord Verified Bot**, meaning it has passed Discord’s verification requirements and is trusted to operate across large communities.
+
+It understands natural language, responds intelligently, and enhances engagement in any server.
 
 ---
 
@@ -21,34 +23,48 @@ It understands natural language, responds intelligently, and enhances your commu
 
 Add AcoBot to your server using the official authorization link:
 
-👉 **[Click Here to Invite AcoBot](https://discord.com/oauth2/authorize?client_id=1156403825297600632&permissions=274877910016&integration_type=0&scope=bot)**
+👉 **[Invite AcoBot Now](https://discord.com/oauth2/authorize?client_id=1156403825297600632&permissions=274877910016&integration_type=0&scope=bot)**
 
-> Make sure you have **Manage Server** permission in your Discord server to add the bot.
+> You must have **Manage Server** permission to add the bot.
 
 ---
 
 ## ✨ Features
 
-- 🧠 AI-based smart replies  
-- 💬 Natural language conversations  
-- ⚡ Fast response time  
-- 🔒 Secure and scalable  
+- 🧠 Advanced AI-based intelligent replies  
+- 💬 Natural language understanding  
+- ⚡ Fast & optimized response system  
+- 🛡 Verified & secure architecture  
 - 🌍 Multi-server support  
 - 🎯 Mention-based interaction system  
-- 🛠 Easy integration  
 - 📊 Designed for community engagement  
+- 🔄 Continuous improvements & updates  
 
 ---
 
-## 🗨 How to Use AcoBot
+## 🗨 How to Interact with AcoBot
 
-Interacting with AcoBot is simple!
+Using AcoBot is simple and intuitive.
 
-### 📌 Step 1: Invite the Bot
+### Step 1️⃣ – Mention the Bot
 
-Use the invite link above to add AcoBot to your server.
+Just mention the bot in any channel:
 
-### 📌 Step 2: Mention the Bot
 
-To talk with AcoBot, simply mention it:
+### Step 2️⃣ – Get Instant AI Response
 
+AcoBot automatically detects the mention and replies intelligently in the same channel.
+
+No prefixes.  
+No complicated commands.  
+Just mention and chat.
+
+---
+
+## 📸 Screenshots
+
+### 💬 AI Conversation Example
+
+![Chat Example](./screenshots/chat-example.png)
+
+---
