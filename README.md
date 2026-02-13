@@ -65,6 +65,6 @@ Just mention and chat.
 
 ### 💬 AI Conversation Example
 
-![Chat Example](./screenshots/chat-example.png)
+![Chat Example](Capture.PNG)
 
 ---
